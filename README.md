@@ -1,6 +1,8 @@
 # dynamac
 Dynamic simulation and testing for single-equation ARDL models Use dynamac (dynardl) With (In) R Software
 
+https://www.youtube.com/watch?v=eT-KJNbLvbU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
